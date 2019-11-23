@@ -1,7 +1,7 @@
 {
-  "name": "sdkman-its-a-bird",
+  "name": "reveal-asciidoctor",
   "version": "1.0.0",
-  "description": "It's a Bird. It's a Plane. No, it's SDKMAN!",
+  "description": "My Reveal.js Asciidoctor slide deck",
   "main": "index.js",
   "author": "Marco Vermeulen",
   "license": "ISC",

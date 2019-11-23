@@ -1,6 +1,4 @@
-## It's a bird. It's a plane. It's SDKMAN!
-
-These are the slides for my talk on SDKMAN!
+## Reveal.js asciidoctor
 
 They are written using Asciidoc, and can be rendered to to html in Reveal.js using Asciidoctor.
 
